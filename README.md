@@ -8,13 +8,16 @@
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Animesh-DS/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Animesh-DS/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Animesh-DS/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
