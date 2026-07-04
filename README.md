@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Animesh-DS/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Animesh-DS/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-DS/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-DS/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Animesh-DS/Leet_Code/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Animesh-DS/Leet_Code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
