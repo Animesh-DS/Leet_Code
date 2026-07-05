@@ -33,11 +33,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Animesh-DS/Leet_Code/tree/master/0412-fizz-buzz) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
