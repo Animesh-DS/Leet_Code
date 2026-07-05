@@ -67,4 +67,13 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Animesh-DS/Leet_Code/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Animesh-DS/Leet_Code/tree/master/0412-fizz-buzz) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Animesh-DS/Leet_Code/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Animesh-DS/Leet_Code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
