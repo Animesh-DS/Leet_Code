@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Animesh-DS/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Animesh-DS/Leet_Code/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -31,10 +32,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -43,6 +46,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
