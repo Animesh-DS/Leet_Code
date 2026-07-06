@@ -94,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Animesh-DS/Leet_Code/tree/master/0038-count-and-say) |
 | [0412-fizz-buzz](https://github.com/Animesh-DS/Leet_Code/tree/master/0412-fizz-buzz) |
 ## Breadth-First Search
 |  |
