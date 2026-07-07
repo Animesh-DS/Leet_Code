@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Animesh-DS/Leet_Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Animesh-DS/Leet_Code/tree/master/0143-reorder-list) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Animesh-DS/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Animesh-DS/Leet_Code/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Animesh-DS/Leet_Code/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -109,4 +111,12 @@
 |  |
 | ------- |
 | [3146-permutation-difference-between-two-strings](https://github.com/Animesh-DS/Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Animesh-DS/Leet_Code/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Animesh-DS/Leet_Code/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
