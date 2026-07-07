@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-DS/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/Animesh-DS/Leet_Code/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/Animesh-DS/Leet_Code/tree/master/1920-build-array-from-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0054-spiral-matrix](https://github.com/Animesh-DS/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Animesh-DS/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Animesh-DS/Leet_Code/tree/master/0495-teemo-attacking) |
+| [1920-build-array-from-permutation](https://github.com/Animesh-DS/Leet_Code/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
