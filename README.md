@@ -98,10 +98,15 @@
 | ------- |
 | [0038-count-and-say](https://github.com/Animesh-DS/Leet_Code/tree/master/0038-count-and-say) |
 | [0412-fizz-buzz](https://github.com/Animesh-DS/Leet_Code/tree/master/0412-fizz-buzz) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Animesh-DS/Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Animesh-DS/Leet_Code/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [3146-permutation-difference-between-two-strings](https://github.com/Animesh-DS/Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
