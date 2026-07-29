@@ -16,11 +16,11 @@ public:
             ans+=nums[i];
         }
         
-        int tempAns=ans;
-        
+        int currAns=ans;
+
         for(int i=0;i<k;i++){
-            int currAns = tempAns-nums[backptr]+nums[frontptr];
-            tempAns = currAns;
+            currAns = currAns-nums[backptr]+nums[frontptr];
+
             ans = Max(ans,currAns);
             frontptr++;
             backptr++;
