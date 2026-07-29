@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-DS/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/Animesh-DS/Leet_Code/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/Animesh-DS/Leet_Code/tree/master/0503-next-greater-element-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Animesh-DS/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1920-build-array-from-permutation](https://github.com/Animesh-DS/Leet_Code/tree/master/1920-build-array-from-permutation) |
 ## Stack
 |  |
@@ -128,4 +129,12 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Animesh-DS/Leet_Code/tree/master/0055-jump-game) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Animesh-DS/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Animesh-DS/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
