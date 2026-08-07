@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Animesh-DS/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Animesh-DS/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Animesh-DS/Leet_Code/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Animesh-DS/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
@@ -68,6 +69,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Animesh-DS/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Animesh-DS/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Animesh-DS/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -124,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Animesh-DS/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Animesh-DS/Leet_Code/tree/master/0055-jump-game) |
 ## Greedy
 |  |
